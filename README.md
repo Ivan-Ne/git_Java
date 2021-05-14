@@ -14,3 +14,5 @@ Output:
 Возраст: 33
 Рост: 175.5
 Должность: программист
+
+See the files Main and Man.
